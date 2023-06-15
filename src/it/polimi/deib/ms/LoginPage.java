@@ -1,6 +1,6 @@
 package it.polimi.deib.ms;
 
-
+import java.util.*;
 
 public class LoginPage {
 
