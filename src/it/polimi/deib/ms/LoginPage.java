@@ -1,9 +1,10 @@
 package it.polimi.deib.ms;
 
-import java.util.*;
 
 public class LoginPage {
 
-    System.out.println("Prova pull request");
+    public static void main(String[] args) {
+        System.out.println("Prova pull request");
+    }
 
 }
